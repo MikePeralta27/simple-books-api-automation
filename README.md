@@ -1,5 +1,5 @@
 # simple-books-api-automation
-This is a practice of API automation test for simple book API
+This is a practice of API automation test for simple book API.
 
 ## Set up
 
@@ -18,7 +18,7 @@ This API allows you to reserve a book.
 
 The API is available at `https://simple-books-api.glitch.me`
 
-## Endpoints ##
+### Endpoints ##
 
 ### Status ###
 
